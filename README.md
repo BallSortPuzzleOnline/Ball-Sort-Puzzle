@@ -125,6 +125,6 @@ These elements combine to create an effective tool for developing and maintainin
 
 **Made with ❤️ by [Ball Sort Puzzle]**
 
-[Play Now](https://ballsortpuzzle.sprunkigame.cc/) • [Report Bug](https://github.com/BallSortPuzzleOnline/Ball-Sort-Puzzle/issue) • [Request Feature](https://github.com/BallSortPuzzleOnline/Ball-Sort-Puzzle/issue)
+[Play Now](https://ballsortpuzzle.sprunkigame.cc/) • [Report Bug](https://github.com/BallSortPuzzleOnline/Ball-Sort-Puzzle/issues) • [Request Feature](https://github.com/BallSortPuzzleOnline/Ball-Sort-Puzzle/issues)
 
 </div>
