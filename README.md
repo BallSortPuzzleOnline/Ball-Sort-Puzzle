@@ -79,6 +79,48 @@ Ball Sort Puzzle combines simple mechanics with deep strategic gameplay. Unlike 
 </details>
 
 
+<details>
+<summary><b>What strategies can help me solve difficult levels?</b></summary>
+
+Success in challenging levels of Ball Sort Puzzle relies on a combination of strategic thinking and careful planning. Players should focus on:
+- Using empty tubes as temporary storage spaces
+- Planning several moves ahead by analyzing the entire arrangement
+- Concentrating on completing one color at a time
+- Being mindful of ball sequences that could potentially block progress
+- Using the undo button to experiment with different approaches
+
+Since there's no time pressure, players can take their time to think through each move carefully, making it easier to develop and execute complex strategies.
+</details>
+
+<details>
+<summary><b>What makes Ball Sort Puzzle engaging and addictive?</b></summary>
+
+Ball Sort Puzzle's addictive nature comes from its perfect blend of simplicity and complexity. The game offers:
+- Immediate satisfaction through completing perfect color sorts
+- Progressive challenge through increasingly difficult levels
+- Relaxed gameplay with no time pressure
+- Constant visual feedback when completing color sets
+- Simple rules combined with deep strategic elements
+- Freedom to experiment with different solutions using the undo feature
+
+This balanced combination creates a compelling gaming experience that keeps players coming back for more.
+</details>
+
+<details>
+<summary><b>How does Ball Sort Puzzle help improve problem-solving skills?</b></summary>
+
+Ball Sort Puzzle serves as an excellent brain training tool that goes beyond simple entertainment. The game helps develop:
+- Strategic thinking through multi-step planning
+- Pattern recognition abilities
+- Spatial awareness and visualization skills
+- Deductive reasoning capabilities
+- Resource management skills
+- Patience and analytical thinking
+- Cognitive abilities through progressive difficulty
+
+These elements combine to create an effective tool for developing and maintaining cognitive abilities in an engaging and enjoyable way.
+</details>
+
 <div align="center">
 
 **Made with ❤️ by [Ball Sort Puzzle]**
