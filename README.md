@@ -9,6 +9,11 @@
 
 ---
 
+![Ball-Sort-Puzzle](https://github.com/user-attachments/assets/69d5b6cd-8855-45aa-8793-9eb7fbd330ef)
+## 🎮 Play Now
+[Ball Sort Puzzle](https://ballsortpuzzle.sprunkigame.cc) - A Strategic Color Sorting Game | Play Online
+
+
 ## 📖 What is Ball Sort Puzzle?
 
 Ball Sort Puzzle is an engaging logic game that challenges players to sort colored balls into tubes using strategic thinking and problem-solving skills. As a unique blend of strategy and logic, this puzzle game has captivated millions of players worldwide with its simple yet challenging gameplay mechanics.
